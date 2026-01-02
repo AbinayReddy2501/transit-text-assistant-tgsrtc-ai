@@ -1,0 +1,7 @@
+com\transit\assistant\TransitTextAssistantApplication.class
+com\transit\assistant\domain\Route.class
+com\transit\assistant\domain\StopTime.class
+com\transit\assistant\domain\StopTimeId.class
+com\transit\assistant\domain\ServiceCalendar.class
+com\transit\assistant\domain\Trip.class
+com\transit\assistant\domain\Stop.class
